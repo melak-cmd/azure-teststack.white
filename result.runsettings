@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <!-- Configurations that affect the Test Framework -->
+  <RunConfiguration>
+    <ResultsDirectory>.\TestResults</ResultsDirectory>
+  </RunConfiguration>
+ <TestRunParameters>
+    <Parameter name="applicationpath" value="C:\Users\amine\source\repos\melak-cmd\azure-teststack.white\WpfApp1\bin\Debug" />
+  </TestRunParameters>
+</RunSettings>
